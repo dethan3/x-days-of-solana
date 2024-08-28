@@ -4,4 +4,6 @@
 
 Maybe 60 days, maybe 100 days, anyway, explore solana
 
-## Day1
+## Study
+
+1. [Day1](Day1/readme.md)
